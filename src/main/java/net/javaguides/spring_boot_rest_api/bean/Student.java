@@ -1,4 +1,4 @@
-package bean;
+package net.javaguides.spring_boot_rest_api.bean;
 
 public class Student {
 
